@@ -1,1 +1,1 @@
-## Just some old code pushed for testing out github. Not very interesting
+## Pushed just some old code for testing out github. Not very interesting
