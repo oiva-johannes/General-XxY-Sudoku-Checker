@@ -1,2 +1,1 @@
-# General-XxY-Sudoku-Checker
-Program for checking correctness of any sized sudoku.
+# Just some old code for testing out github. Not very interesting
